@@ -1,1 +1,1 @@
-# chess_board
+# Psychedelic Chess Board
